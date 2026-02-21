@@ -31,7 +31,7 @@ Interactive 4×4 telephone keypad that synthesizes and plays the correct dual-to
 ```bash
 git clone https://github.com/mustafa-akgul/signal_system_H1.git
 cd signal_system_H1
-pip install numpy matplotlib sounddevice
+pip install -r requirements.txt
 ```
 
 ```bash

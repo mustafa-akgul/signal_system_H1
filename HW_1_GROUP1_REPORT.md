@@ -147,7 +147,7 @@ When a key is pressed, the application simultaneously plays the corresponding DT
 ```bash
 git clone https://github.com/mustafa-akgul/signal_system_H1.git
 cd signal_system_H1
-pip install numpy matplotlib sounddevice
+pip install -r requirements.txt
 python task1.py   # Task 1
 python task2.py   # Task 2
 ```
